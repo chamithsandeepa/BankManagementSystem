@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Bank {
-
+//test
     private String name;
 
     private ArrayList<User> users;
